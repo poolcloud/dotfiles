@@ -3,6 +3,7 @@
 ***
 
 <h1> Table of Contents</h1>
-* What are dotfiles?
-* My rice
-* More...
+<ul>
+  <li>What are dotfile?</li>
+  <li>My rice</li>
+  <li>More...</li>
